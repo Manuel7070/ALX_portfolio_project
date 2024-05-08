@@ -13,7 +13,6 @@ The following technologies have been utilized in the development of the Chremati
 - CSS
 - JavaScript
 - Bootstrap
-- EmailJS
 
 
 ## Contributing
