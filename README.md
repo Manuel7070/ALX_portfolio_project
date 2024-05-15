@@ -1,6 +1,6 @@
 # ALX Portfolio Project
 
-![Owner Avatar](link_to_owner_avatar)
+![Owner Avatar](https://avatars.githubusercontent.com/u/136020350?s=400&u=6250ff62c398a2a80930e1739d2ade7b7a492faf&v=4)
 
 [![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
