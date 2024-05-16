@@ -1,27 +1,64 @@
+# ALX Portfolio Project
 
-# Chrematizo Bank Website
+![Owner Avatar](https://avatars.githubusercontent.com/u/136020350?s=400&u=6250ff62c398a2a80930e1739d2ade7b7a492faf&v=4)
 
-## Introduction
-Welcome to the Chrematizo Bank Website project! This repository contains the source code and assets for the website of Chrematizo Bank, an informative platform showcasing the bank's services, products, and information for customers and visitors.
+[![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Project Description
-The Chrematizo Bank Website is designed to provide an intuitive and user-friendly interface for users to explore and learn about the bank's offerings, access valuable resources, and stay informed about the latest news and updates. The website serves as a central hub for customers and potential customers to access information, locate branches and ATMs, contact customer support, and more.
+---
 
-## Technologies Used
-The following technologies have been utilized in the development of the Chrematizo Bank Website:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+## Table of Contents
 
+- [About](#about)
+- [Branches](#branches)
+- [Contact](#contact)
+- [FAQs](#faqs)
+- [Resources](#resources)
+- [Thanks](#thanks)
 
-## Contributing
-We welcome contributions to the Chrematizo Banking Group Website project! If you would like to contribute, please follow these guidelines:
-1. Fork the repository and create a new branch for your contribution.
-2. Make your changes and ensure that the code adheres to the project's coding standards.
-3. Test your changes thoroughly.
-4. Submit a pull request describing the changes you have made.
+---
 
+## About
 
-## Author
-The Chrematizo Bank Website project is authored and maintained by ,Manuel, a software engineering student at the ALX Software Engineering program.
+Brief description of what the project does.
+
+---
+
+## Branches
+
+Explanation of the branches in the repository.
+
+---
+
+## Contact
+
+How to reach out for support or questions.
+
+---
+
+## FAQs
+
+Frequently asked questions about the project.
+
+---
+
+## Resources
+
+Useful resources related to the project.
+
+---
+
+## Thanks
+
+Acknowledgement section for contributors or other mentions.
+
+---
+
+## License
+
+This project is licensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### [Contributing](CONTRIBUTING.md)
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
