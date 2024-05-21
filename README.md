@@ -79,9 +79,3 @@ Frequently asked questions about the project.
 Useful resources related to the project.
 
 ---
-
-## Thanks
-
-Acknowledgement section for contributors or other mentions.
-
----
