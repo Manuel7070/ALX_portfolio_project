@@ -66,11 +66,6 @@ Explanation of the branches in the repository.
 
 How to reach out for support or questions.
 
----
-
-## FAQs
-
-Frequently asked questions about the project.
 
 ---
 
